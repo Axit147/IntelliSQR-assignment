@@ -6,6 +6,20 @@ This project is a backend application built with Node.js, TypeScript, and Prisma
 
 ---
 
+## Tech Stack
+
+This project is built with the following technologies:
+
+### Core
+- **Node.js**: JavaScript runtime for server-side execution
+- **TypeScript**: Superset of JavaScript with static typing
+- **Express.js**: Web framework for Node.js
+
+### Database
+- **Prisma**: Next-generation ORM for Node.js and TypeScript
+- **PostgreSQL**: (or your specific database) Powerful, open-source relational database
+
+
 ## File Structure
 
 ```
