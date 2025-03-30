@@ -1,8 +1,19 @@
-# IntelliSQR Assignment
+# IntelliSQR Assignment (Frontend)
 
 ## Description
 
 This project is a frontend application built using **React (TypeScript) with Vite**. It includes modular components, hooks, and type definitions for scalability and maintainability.
+
+---
+
+## Tech Stack
+
+This project is built using the following technologies:
+
+- **React (TypeScript)** – For building the user interface with type safety.
+- **Vite** – A fast and lightweight development and build tool for frontend applications.
+- **TanStack Query** – For efficient data fetching, caching, and synchronization.
+- **CSS Modules / Tailwind CSS** – For styling components.
 
 ---
 
@@ -97,6 +108,3 @@ http://localhost:5173
 
 (Vite's default development port is **5173**.)
 
----
-
-##
